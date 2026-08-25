@@ -1,0 +1,91 @@
+body {
+    border-left: 2px groove darkblue ;
+    margin-left: 100px;
+}
+
+#title {
+    color: blueviolet;
+}
+
+.headerTag {
+    color: black;
+    border-color: gray;
+    border-style: groove;
+}
+
+#boringHtml {
+    font-style: italic;
+}
+
+#headings {
+    font-size: 20px;
+    color: lightseagreen;
+    
+}
+
+#redHeading {
+    color: red;
+}
+
+#sc {
+    color: lightseagreen
+}
+
+#special {
+    color: orange;
+}
+
+#list {
+    color: lightseagreen;
+}
+
+#columnRowTable {
+    
+    border-style: groove;
+}
+
+th {
+    border-style: groove;
+}
+
+tr {
+    border-style: groove;
+}
+
+td {
+    border-style: groove;
+}
+
+thead {
+    border-style: groove;
+}
+tbody {
+    border-style: groove;
+}
+
+#hyperlinks {
+    color: lightseagreen;
+}
+
+#swinlink {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px groove black;
+}
+
+#listSelection {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px groove black;   
+}
+
+#emailId {
+    color: black;
+    font-weight: bold;
+    border-bottom: 2px groove black;
+}
+
+#images {
+    text-align: center;
+    color:lightseagreen;
+}

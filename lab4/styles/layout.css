@@ -1,0 +1,29 @@
+#parentBlock {
+    display: flex;
+    width:100%;
+    gap: 500px;
+}
+
+#tablesBlock {
+    text-align: center;
+}
+
+#listBlock {
+    text-align: center;
+}
+
+#listBlock ul, #listBlock ol, #listBlock dl {
+    text-align: left;
+}
+
+#headerParentBlock {
+    display: flex;
+}
+
+#hyperImagePBlock{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
