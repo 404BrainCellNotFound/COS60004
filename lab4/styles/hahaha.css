@@ -116,3 +116,12 @@ tbody {
     border: 2px groove gray;
     padding: 10px;
 }
+
+#firstTermBlock {
+    color: rgb(2, 103, 2);
+    font-weight: 600;
+}
+
+.special {
+    color: rgb(245, 107, 21);
+}

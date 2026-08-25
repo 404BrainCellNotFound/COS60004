@@ -27,3 +27,20 @@
     
 }
 
+#definitionList {
+    display: flex;
+    width:500px;
+    height: 80px;
+   text-align: right; 
+   justify-content: space-around;
+}
+
+#firstTermDesc {
+    padding-bottom: 20px;
+    width: 270px;
+    text-align: left;
+}
+
+#firstTerm {
+    padding-bottom: 20px;
+}
